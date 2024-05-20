@@ -1,3 +1,2 @@
 # Pokemon-Showdown-Replay-Scraper
-scrapes recent replays continuously from Pokemon Showdown
-[Pokemon Showdown Repository](https://github.com/smogon/pokemon-showdown)
+scrapes recent replays continuously from [Pokemon Showdown](https://github.com/smogon/pokemon-showdown)
